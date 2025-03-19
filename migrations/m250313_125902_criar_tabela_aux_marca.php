@@ -23,7 +23,7 @@ class m250313_125902_criar_tabela_aux_marca extends Migration
             ['BERETTA'],
             ['BOITO'],
             ['COLT'],
-            ['IMBEL'],
+            ['CARAPINA'],
 
 
         ]);

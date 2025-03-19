@@ -17,7 +17,7 @@ class m250312_133428_criar_tabela_aux_calibre extends Migration
         ]);
 
         $this->batchInsert('aux_calibre', ['calibre'], [
-            ['.40'],
+            ['.486'],
             ['.38'],
             ['.32'],
             ['.22'],

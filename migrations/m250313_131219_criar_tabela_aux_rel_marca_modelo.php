@@ -40,6 +40,7 @@ class m250313_131219_criar_tabela_aux_rel_marca_modelo extends Migration
         $this->addForeignKey(
             '{{%fk-idmodelo}}',
             '{{%aux_rel_marca_modelo}}',
+            'idmodelo',
             '{{%aux_modelo}}',
             'id',
             'CASCADE'
